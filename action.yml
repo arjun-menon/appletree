@@ -57,7 +57,7 @@ runs:
 
     - name: Configure GitHub Pages
       id: gh_pages_config
-      uses: actions/configure-pages@v4
+      uses: actions/configure-pages@v5
       with:
         enablement: true
 
